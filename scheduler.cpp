@@ -19,6 +19,11 @@
 #define FIN 6
 using namespace std;
 
+
+//Rachit Mehrotra
+//rm4149@nyu.edu
+
+
 int verbosemode=0;
 int curr_time=0;
 int total_time=0;

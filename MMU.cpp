@@ -13,6 +13,12 @@
 #include <climits>
 using namespace std;
 //PAGE TABLE ENTRY -- Planned on using it but ended up with bit manipulation 
+
+
+//Rachit Mehrotra
+//rm4149@nyu.edu
+
+
 class PTE
 {
 public:

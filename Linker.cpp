@@ -8,6 +8,14 @@
 
 
 using namespace std;
+
+
+
+//Rachit Mehrotra
+//rm4149@nyu.edu
+
+
+
 int No=0;
 void printMemoryTable(int value,string error);
 void pass1 (char* inp);
